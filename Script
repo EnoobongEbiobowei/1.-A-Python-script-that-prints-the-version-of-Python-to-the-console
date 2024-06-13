@@ -1,0 +1,8 @@
+┌──(kali㉿kali)-[~]
+└─$ python3          
+Python 3.11.8 (main, Feb  7 2024, 21:52:08) [GCC 13.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import sys
+>>> print(sys.version)
+3.11.8 (main, Feb  7 2024, 21:52:08) [GCC 13.2.0]
+>>> 
